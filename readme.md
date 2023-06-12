@@ -4,15 +4,9 @@ Provided is a simple ini creator for Windows 10/11
 
 ![example](https://i.ibb.co/C8tTyKb/starini.png)
 
-<sub style="line-height: 0">Preview of StarINI</sub>
-
-<br>
-
 # Download links
 
-* [v1.0.0]()
-
-<br>
+* [v1.0.0](https://github.com/WillDev12/StarINI/releases/download/v1.0.0/StarINI.setup.msi)
 
 # Like content like this?
 
