@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarINI", "StarINI.csproj", "{BE3115B0-A853-466A-B0CD-30383F39FEF7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StarINI setup", "..\StarINI setup\StarINI setup.vdproj", "{89F161A2-1C0B-44AF-8306-014460B5B0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3115B0-A853-466A-B0CD-30383F39FEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3115B0-A853-466A-B0CD-30383F39FEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3115B0-A853-466A-B0CD-30383F39FEF7}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3115B0-A853-466A-B0CD-30383F39FEF7}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{BE3115B0-A853-466A-B0CD-30383F39FEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3115B0-A853-466A-B0CD-30383F39FEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F161A2-1C0B-44AF-8306-014460B5B0AA}.Debug|Any CPU.ActiveCfg = Debug
+		{89F161A2-1C0B-44AF-8306-014460B5B0AA}.DefaultBuild|Any CPU.ActiveCfg = Debug
+		{89F161A2-1C0B-44AF-8306-014460B5B0AA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82AB9C9-B93C-4834-96FA-F54AE5E8A7B6}
+	EndGlobalSection
+EndGlobal
